@@ -56,8 +56,9 @@ This project aims to:
 ## Findings
 
 1. **Key Features**:
-    - "Age" and "Davies Score" were the most significant features contributing to patient mortality.
-    <img src="https://github.com/danwyk/Interpretability_for_the_Baseline_Classification_Model/blob/main/death_event_3y.png" width="800">
+    - "Age" and "Davies Score" were the most significant features contributing to patient mortality.   
+    <img src="https://github.com/danwyk/Interpretability_for_the_Baseline_Classification_Model/blob/main/death_event_3y.png" width="500">   
+    
     - Experience and size of medical centers also impacted patient mortality rates.
 
 2. **Model Performance**:
@@ -67,9 +68,11 @@ This project aims to:
 3. **Validation with Iris Dataset**:
     - The model demonstrated better performance with clean data, achieving over 90% accuracy and F1 scores with the Iris dataset.
 
-4. **Insights from SHAP Values**:
-    - Identified that higher "Age" and "BMI" significantly influenced mortality caused by CVD.
-    <img src="https://github.com/danwyk/Interpretability_for_the_Baseline_Classification_Model/blob/main/CVD.png" width="800">
-    - Found that lower "BMI" contributed more to mortality caused by non-treatment-related sepsis.
-    <img src="https://github.com/danwyk/Interpretability_for_the_Baseline_Classification_Model/blob/main/Sepsis-non-related.png" width="800">
+4. **Insights from SHAP Values**:   
+    - Identified that higher "Age" and "BMI" significantly influenced mortality caused by CVD.   
+    <img src="https://github.com/danwyk/Interpretability_for_the_Baseline_Classification_Model/blob/main/CVD.png" width="500">   
+    
+    - Found that lower "BMI" contributed more to mortality caused by non-treatment-related sepsis.   
+    <img src="https://github.com/danwyk/Interpretability_for_the_Baseline_Classification_Model/blob/main/Sepsis-non-related.png" width="500">   
+    
     - "Gender" was a major factor for CVD-related mortality, with females being more prone to CVD issues.
