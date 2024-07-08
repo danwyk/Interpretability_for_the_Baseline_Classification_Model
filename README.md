@@ -1,4 +1,4 @@
-# Uber Fares Analysis
+# Data Interpretability for the Baseline Classification Model
 > Credit to   
       
   Daniel Wang(danwyk@umich.edu)  
