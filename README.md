@@ -1,4 +1,5 @@
 # Data Interpretability for the Baseline Classification Model
+[Click here to view the report](https://github.com/danwyk/Interpretability_for_the_Baseline_Classification_Model/blob/main/Interpretability_for_the_Baseline_Classification_Model.pdf)
 
 > Credit to   
 > Daniel Wang(danwyk@umich.edu)  
