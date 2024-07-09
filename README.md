@@ -1,10 +1,10 @@
 # Data Interpretability for the Baseline Classification Model
-> Credit to   
-      
-  Daniel Wang(danwyk@umich.edu)  
-  Maria Han Veiga(mhanveig@umich.edu)
 
-  <br>
+> Credit to   
+> Daniel Wang(danwyk@umich.edu)  
+> Maria Han Veiga(mhanveig@umich.edu)
+
+<br>
  
 *The dataset used for this project comes from [PubMed](https://pubmed.ncbi.nlm.nih.gov/18379538/)*   
 
